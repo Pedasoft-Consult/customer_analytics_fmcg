@@ -43,3 +43,13 @@ The first part of the analysis primarily focused on **Customer Analytics**. In t
 
 ### Part 2: Purchase Analytics
 The second part of the analysis concentrated on **Purchase Analytics**, where I delved deeper into understanding customer purchasing behaviors and patterns. This involved identifying trends, preferences, and factors influencing purchasing decisions to guide strategic marketing efforts.
+
+
+
+
+
+
+### Referenecs 
+
+[Price Elasticity](https://365datascience.com/price-elasticity/)
+
