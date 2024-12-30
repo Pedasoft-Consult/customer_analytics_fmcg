@@ -30,7 +30,7 @@ Customer Analytics in FMCG Industry
 &emsp;&emsp;&emsp;&emsp;&emsp; ii-3. Modeling Purchase Quantity <br>
 <li><a href="#Conclusion">5. Conclusion</a></li>
 </ul>
-```
+
 
 ## Introduction
 
