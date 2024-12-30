@@ -1,4 +1,4 @@
-# Customer Analytics in FMCG Industry 
+# Customer Analytics in FMSC Industry 
 
 ### Keywords 
 
