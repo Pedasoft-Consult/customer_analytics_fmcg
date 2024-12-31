@@ -43,16 +43,12 @@ The first part of the analysis primarily focused on **Customer Analytics**. In t
 ### Part 2: Purchase Analytics
 The second part of the analysis concentrated on **Purchase Analytics**, where I delved deeper into understanding customer purchasing behaviors and patterns. This involved identifying trends, preferences, and factors influencing purchasing decisions to guide strategic marketing efforts.
 
-#%% md
 <a id='Preparation'></a>
 ## 2. Data Preparation
 
-
-#%% md
 <a id='Exploration'></a>
 ## 3. Data Exploration
 
-#%% md
 <a id='Analysis'></a>
 ## 4. Data Analysis
 ### 4.1. Customer Analysis
